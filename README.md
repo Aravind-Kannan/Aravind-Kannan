@@ -7,3 +7,5 @@
 - 🌱 Interested in **open source**
 - 📫 Reach me: [twitter.com/aravindkannan01](https://twitter.com/aravindkannan01)
 - 🤫 Secret: Code 👨‍💻 + Sleep 🛌 = Productivity 😜
+
+![GitHub Views](https://komarev.com/ghpvc/?username=Aravind-Kannan)
